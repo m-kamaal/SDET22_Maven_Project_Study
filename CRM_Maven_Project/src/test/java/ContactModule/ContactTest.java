@@ -7,7 +7,7 @@ public class ContactTest {
 	@Test
 	public void createContact() {
 		System.out.println("Contact has been created");
-		String URLprint = System.getProperty("URL");
+		String URLprint = System.getProperty("url");
 		System.out.println(URLprint);
 	}
 
